@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\DynamicProgramming.exe.config
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\DynamicProgramming.exe
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\DynamicProgramming.pdb
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\obj\Debug\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\obj\Debug\DynamicProgramming.exe
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\obj\Debug\DynamicProgramming.pdb
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\obj\Debug\DynamicProgramming.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\AnshikaTyagiCS.exe
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\AnshikaTyagiCS.pdb
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\bin\Debug\AnshikaTyagiCS.exe.config
+C:\Users\admin\source\repos\AnshikaTyagiCS\DynamicProgramming\obj\Debug\DynamicProgramming.csproj.CopyComplete
