@@ -10,7 +10,7 @@ namespace Dynamic_Programming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter A No Of Boxes");
+            Console.WriteLine("Enter No Of Boxes");
             int Boxes = int.Parse(Console.ReadLine());
             fun(Boxes, "");
             Console.ReadLine();
